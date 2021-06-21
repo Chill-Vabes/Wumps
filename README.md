@@ -3,9 +3,11 @@ Index: [Introduction](https://github.com/Chill-Vabes/Wumps#introduction) | [Comm
 ### Wumps
 
 <h2 align="left">Introduction:</h2>
+
 Wumps is a bot that allows you to entertain yourself and your server by letting you listen to music, entertain with different commands and make it easier for you to manage the server. Choose the best for your server!
 
 <h2 align="left">Command List:</h2>
+
 Music:
 - `c!play [song/link YouTube]` = Play a song with a link or name.
 - `c!loop` = Make the song you are listening to repeat.
@@ -18,7 +20,6 @@ Music:
 - `c!now` = Shows the song being played.
 - `c!queue` = Show the playlist.
 - `c!remove [track number]` = Remove a song from the playlist.
-
 Fun:
 - `c!avatar [@user]` = Show a user's profile picture or gif.
 - `c!gay [@user]` = How homosexual is this person?
@@ -35,20 +36,17 @@ Fun:
 - `c!coinflip` = Flip a coin.
 - `c!ascii [text]` = Transform a sentence.
 - `c!wallpaper` = Sand a random wallpaper.
-
 Animal:
 - `c!cat` = Show a random photo or gif of cat.
 - `c!dog` = Show a random photo or gif of dog.
 - `c!lizard` =Show a random photo or gif of lizard.
 - `c!goose` = Show a random photo or gif of goose.
-
 Utility:
 - `c!alert [text]` = Submit your ad in the channel where you ran the command.
 - `c!ping` = It shows the speed of the bot.
 - `c!social` = Show all useful bot links.
 - `c!invite` = Invite me with this link.
 - `c!uptime` = Shows how long the bot has been online.
-
 Information:
 - `c!info` = Show bot statistics.
 - `c!searchanime [name]` = Find information about the anime you want.
@@ -57,26 +55,25 @@ Information:
 - `c!social` = Show Shows the information of the mentioned user.
 - `c!uptime` = Shows how long the bot has been online.
 - `c!invite` = Invite me with this link.
-
 Moderation:
 - `c!kick [@user] [reason]` = Kick users form the server.
 - `c!ban [@user] [reason]` = Ban users form the server.
 - `c!purge [number] [reason]` = remove a certain number of messages.
 - `c!clear [number] [reason]` = remove a certain number of messages.
-
 Economy (maintenance):
 - `c!work` = Worked.
 - `c!bal` = View your balance.
-
 Giveaway (maintenance):
 - `c!gstart [#channel] [time] [number_winners] [prize]` = Create and start a giveaway.
 - `c!gend [ID]` = End an ongoing giveaway.
 - `c!greroll [ID]` = Extract another winner from the giveaway.
 
 <h2 align="left">Invite:</h2>
+
 You can invite Wumps via [this](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) link.
 
 <h2 align="left">Active Projects:</h2>
+
 - [Chill Vabes](https://dsc.gg/chillvabes): Discord Server;
 - [EvoStack Forum](https://forum.evostack.cloud/public/): Forum.
 
