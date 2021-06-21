@@ -81,7 +81,7 @@ You can invite Wumps via [this](https://discord.com/oauth2/authorize?client_id=7
 - Users: 567367;
 - Channels: 18628.
 
-![InfinityBotList](https://infinitybotlist.com/bots/729701120854982706/widget?size=small)
+![InfinityBotList](https://infinitybotlist.com/bots/729701120854982706/widget?size=small) | ![top.gg](https://top.gg/api/widget/729701120854982706.svg)
 <a href="https://top.gg/bot/729701120854982706">
   <img src="https://top.gg/api/widget/729701120854982706.svg" alt="Wumps" />
   </a>
