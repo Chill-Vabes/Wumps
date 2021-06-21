@@ -7,7 +7,7 @@ Wumps is a bot that allows you to entertain yourself and your server by letting 
 
 <h2 align="left">Commands:</h2>
 
-## Music:
+Music:
 - `c!play [song/link YouTube]` = Play a song with a link or name.
 - `c!loop` = Make the song you are listening to repeat.
 - `c!pause` = Pause the song you are listening to.
@@ -20,7 +20,7 @@ Wumps is a bot that allows you to entertain yourself and your server by letting 
 - `c!queue` = Show the playlist.
 - `c!remove [track number]` = Remove a song from the playlist.
 
-## Fun:
+Fun:
 - `c!avatar [@user]` = Show a user's profile picture or gif.
 - `c!gay [@user]` = How homosexual is this person?
 - `c!question [text]` = Ask the bot a question.
@@ -37,20 +37,20 @@ Wumps is a bot that allows you to entertain yourself and your server by letting 
 - `c!ascii [text]` = Transform a sentence.
 - `c!wallpaper` = Sand a random wallpaper.
 
-## Animal:
+Animal:
 - `c!cat` = Show a random photo or gif of cat.
 - `c!dog` = Show a random photo or gif of dog.
 - `c!lizard` =Show a random photo or gif of lizard.
 - `c!goose` = Show a random photo or gif of goose.
 
-## Utility:
+Utility:
 - `c!alert [text]` = Submit your ad in the channel where you ran the command.
 - `c!ping` = It shows the speed of the bot.
 - `c!social` = Show all useful bot links.
 - `c!invite` = Invite me with this link.
 - `c!uptime` = Shows how long the bot has been online.
 
-## Information:
+Information:
 - `c!info` = Show bot statistics.
 - `c!searchanime [name]` = Find information about the anime you want.
 - `c!serverinfo` = Show server information.
@@ -59,13 +59,13 @@ Wumps is a bot that allows you to entertain yourself and your server by letting 
 - `c!uptime` = Shows how long the bot has been online.
 - `c!invite` = Invite me with this link.
 
-## Moderation:
+Moderation:
 - `c!kick [@user] [reason]` = Kick users form the server.
 - `c!ban [@user] [reason]` = Ban users form the server.
 - `c!purge [number] [reason]` = remove a certain number of messages.
 - `c!clear [number] [reason]` = remove a certain number of messages.
 
-## Economy (maintenance):
+Economy (maintenance):
 - `c!work` = Worked.
 - `c!bal` = View your balance.
 
