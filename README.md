@@ -1,4 +1,4 @@
-Index: [Introduction](https://github.com/Chill-Vabes/Wumps#introduction) | [Command List](https://github.com/Chill-Vabes/Wumps#Command-List) | [Invite](https://github.com/Chill-Vabes/Wumps#Invite) | [Activity Project](https://github.com/Chill-Vabes/Wumps#active-projects) | [Languages and Tools](https://github.com/Chill-Vabes/Wumps#Languages and Tools) |  [Stats](https://github.com/Chill-Vabes/Wumps#introduction) | [Support Server](https://github.com/Chill-Vabes/Wumps#introduction) | [Contact](https://github.com/Chill-Vabes/Wumps#introduction)
+Index: [Introduction](https://github.com/Chill-Vabes/Wumps#introduction) | [Command List](https://github.com/Chill-Vabes/Wumps#Command-List) | [Invite](https://github.com/Chill-Vabes/Wumps#Invite) | [Activity Project](https://github.com/Chill-Vabes/Wumps#active-projects) | [Languages and Tools](https://github.com/Chill-Vabes/Wumps#Languages-and-Tools) |  [Stats](https://github.com/Chill-Vabes/Wumps#introduction) | [Support Server](https://github.com/Chill-Vabes/Wumps#introduction) | [Contact](https://github.com/Chill-Vabes/Wumps#introduction)
 
 ### Wumps
 
@@ -86,3 +86,5 @@ You can invite Wumps via [this](https://discord.com/oauth2/authorize?client_id=7
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> JAVASCRIPT;
 - <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> MONGODB;
 - <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> NODE.JS.
+
+<h2 align="left">Stats:</h2>
