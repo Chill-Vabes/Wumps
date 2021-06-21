@@ -1,4 +1,4 @@
-Index: [Introduction](https://github.com/ChillVabes/Wumps#Introduction) | [Commands](https://github.com/DavidCavallaro#hobbies) | [Invite](https://github.com/DavidCavallaro#curriculum) | [Activity Project](https://github.com/DavidCavallaro#active-projects) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools) |  [Stats](https://github.com/DavidCavallaro#stats) | [Support Server](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
+Index: [Introduction](https://github.com/Chill-Vabes/Wumps#introduction) | [Commands](https://github.com/DavidCavallaro#hobbies) | [Invite](https://github.com/DavidCavallaro#curriculum) | [Activity Project](https://github.com/DavidCavallaro#active-projects) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools) |  [Stats](https://github.com/DavidCavallaro#stats) | [Support Server](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
 
 ### Wumps
 
