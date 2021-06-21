@@ -81,6 +81,10 @@ You can invite Wumps via [this](https://discord.com/oauth2/authorize?client_id=7
 - Users: 567367;
 - Channels: 18628.
 
+<a href="https://top.gg/bot/729701120854982706">
+  <img src="https://top.gg/api/widget/729701120854982706.svg" alt="Wumps" />
+  </a>
+
 <h2 align="left">Support Server:</h2>
 
 You can request support on the Chill Vabes server by clicking [here](https://dsc.gg/chillvabes).
