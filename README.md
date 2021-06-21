@@ -84,3 +84,10 @@ You can invite Wumps via [this](https://discord.com/oauth2/authorize?client_id=7
 <h2 align="left">Support Server:</h2>
 
 You can request support on the Chill Vabes server by clicking [here](https://dsc.gg/chillvabes).
+
+<h2 align="left">Contact:</h2>
+
+Contacting the bot developer is simple. You can do this via the support server, support email or discord.
+- Server Support: https://dsc.gg/chillvabes;
+- Email: botdiscord.davidcavallaro@gmail.com;
+- Discord ID: 470373387609571339.
