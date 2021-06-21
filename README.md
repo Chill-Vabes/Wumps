@@ -1,12 +1,11 @@
-Index: [Introduction](https://github.com/Chill-Vabes/Wumps#introduction) | [Commands](https://github.com/Chill-Vabes/Wumps#Commands) | [Invite](https://github.com/DavidCavallaro#curriculum) | [Activity Project](https://github.com/DavidCavallaro#active-projects) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools) |  [Stats](https://github.com/DavidCavallaro#stats) | [Support Server](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
+Index: [Introduction](https://github.com/Chill-Vabes/Wumps#introduction) | [Command List](https://github.com/Chill-Vabes/Wumps#Command-List) | [Invite](https://github.com/Chill-Vabes/Wumps#introduction) | [Activity Project](https://github.com/Chill-Vabes/Wumps#introduction) | [Languages and Tools](https://github.com/Chill-Vabes/Wumps#introduction) |  [Stats](https://github.com/Chill-Vabes/Wumps#introduction) | [Support Server](https://github.com/Chill-Vabes/Wumps#introduction) | [Contact](https://github.com/Chill-Vabes/Wumps#introduction)
 
 ### Wumps
 
 <h2 align="left">Introduction:</h2>
 Wumps is a bot that allows you to entertain yourself and your server by letting you listen to music, entertain with different commands and make it easier for you to manage the server. Choose the best for your server!
 
-<h2 align="left">Commands:</h2>
-
+<h2 align="left">Command List:</h2>
 Music:
 - `c!play [song/link YouTube]` = Play a song with a link or name.
 - `c!loop` = Make the song you are listening to repeat.
@@ -73,3 +72,10 @@ Economy (maintenance):
 - `c!gstart [#channel] [time] [number_winners] [prize]` = Create and start a giveaway.
 - `c!gend [ID]` = End an ongoing giveaway.
 - `c!greroll [ID]` = Extract another winner from the giveaway.
+
+<h2 align="left">Invite:</h2>
+You can invite Wumps via [this](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) link.
+
+<h2 align="left">Active Projects:</h2>
+- [Chill Vabes](https://dsc.gg/chillvabes): Discord Server;
+- [EvoStack Forum](https://forum.evostack.cloud/public/): Forum.
