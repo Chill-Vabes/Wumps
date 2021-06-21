@@ -68,7 +68,7 @@ Economy (maintenance):
 - `c!work` = Worked.
 - `c!bal` = View your balance.
 
-## Giveaway (maintenance):
+Giveaway (maintenance):
 - `c!gstart [#channel] [time] [number_winners] [prize]` = Create and start a giveaway.
 - `c!gend [ID]` = End an ongoing giveaway.
 - `c!greroll [ID]` = Extract another winner from the giveaway.
