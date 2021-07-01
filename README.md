@@ -77,7 +77,7 @@ You can invite Wumps via [this](https://discord.com/oauth2/authorize?client_id=7
 
 <h2 align="left">Stats:</h2>
 
-- Servers: 439;
+- Servers: 548;
 - Users: 567367;
 - Channels: 18628.
 
