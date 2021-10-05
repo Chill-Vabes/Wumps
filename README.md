@@ -1,6 +1,6 @@
 Index: [Introduction](https://github.com/Chill-Vabes/Wumps#introduction) | [Command List](https://github.com/Chill-Vabes/Wumps#Command-List) | [Invite](https://github.com/Chill-Vabes/Wumps#Invite) | [Activity Project](https://github.com/Chill-Vabes/Wumps#active-projects) | [Languages and Tools](https://github.com/Chill-Vabes/Wumps#languages-and-tools) |  [Stats](https://github.com/Chill-Vabes/Wumps#stats) | [Support Server](https://github.com/Chill-Vabes/Wumps#support-server) | [Contact](https://github.com/Chill-Vabes/Wumps#contact)
 
-### Wumps | ❗️ Attention! There are news regarding this Bot! Click here!(https://github.com/orgs/Chill-Vabes/projects/2) ❗️ 
+### ❗️ Attention! There are news regarding this Bot! Click here!(https://github.com/orgs/Chill-Vabes/projects/2) ❗️ 
 
 <h2 align="left">Introduction:</h2>
 
