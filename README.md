@@ -68,7 +68,7 @@ You can invite Wumps via [this](https://discord.com/oauth2/authorize?client_id=7
 
 <h2 align="left">Active Projects:</h2>
 
-- [Chill Vabes](https://dsc.gg/chillvabes): Discord Server;
+- [Chill Vabes](https://discord.gg/jxh2qxu): Discord Server;
 - [EvoStack Forum](https://forum.evostack.cloud/public/): Forum.
 
 <h2 align="left">Languages and Tools:</h2>
