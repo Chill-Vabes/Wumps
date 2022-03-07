@@ -1,7 +1,5 @@
 Index: [Introduction](https://github.com/Chill-Vabes/Wumps#introduction) | [Command List](https://github.com/Chill-Vabes/Wumps#Command-List) | [Invite](https://github.com/Chill-Vabes/Wumps#Invite) | [Activity Project](https://github.com/Chill-Vabes/Wumps#active-projects) | [Languages and Tools](https://github.com/Chill-Vabes/Wumps#languages-and-tools) |  [Stats](https://github.com/Chill-Vabes/Wumps#stats) | [Support Server](https://github.com/Chill-Vabes/Wumps#support-server) | [Contact](https://github.com/Chill-Vabes/Wumps#contact)
 
-### ❗️Attention! There are news regarding this Bot! Click [here](https://github.com/orgs/Chill-Vabes/projects/2)!❗️ 
-
 <h2 align="left">Introduction:</h2>
 
 Wumps is a bot that allows you to entertain yourself and your server by letting you listen to music, entertain with different commands and make it easier for you to manage the server. Choose the best for your server!
@@ -68,7 +66,7 @@ You can invite Wumps via [this](https://discord.com/oauth2/authorize?client_id=7
 
 <h2 align="left">Active Projects:</h2>
 
-- [Chill Vibes](https://discord.gg/jxh2qxu): Discord Server.
+- [Chill Vibes](https://discord.gg/jZwbbdQVFr): Discord Server.
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -86,7 +84,7 @@ You can invite Wumps via [this](https://discord.com/oauth2/authorize?client_id=7
 
 <h2 align="left">Support Server:</h2>
 
-You can request support on the Chill Vibes server by clicking [here](https://discord.gg/jxh2qxu).
+You can request support on the Chill Vibes server by clicking [here](https://discord.gg/jZwbbdQVFr).
 
 <h2 align="left">Contact:</h2>
 
